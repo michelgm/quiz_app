@@ -21,7 +21,7 @@ To run this Flutter quiz app on your local machine, make sure you have Flutter i
 2. **Navigate to the project directory:**
 
     ```bash
-    cd quiz-app
+    cd quiz_app
     ```
 
 3. **Install dependencies:**
